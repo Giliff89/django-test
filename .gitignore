@@ -1,2 +1,5 @@
 *.pyc
+/mysite/*.pyc
+/polls/*.pyc
+/polls/migrations/*.pyc
 env/
